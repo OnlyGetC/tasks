@@ -10,4 +10,6 @@
 <H2>Домашнее задание 3:</H2> 
 <b><a href= "https://github.com/OnlyGetC/tasks/blob/master/dz_3.ipynb"> dz_3.ipynb </a></b> - Предсказание будущего класса на разных методах ML <br>
 <b><a href= "https://github.com/OnlyGetC/tasks/blob/master/DataSet_w_NA.xlsx"> DataSet_w_NA.xlsx </a></b> - Датасет к заданию <br>
+<H2>Домашнее задание 4:</H2> 
+<b><a href= "https://github.com/OnlyGetC/tasks/blob/master/XGBoost.ipynb"> XGBoost.ipynb </a></b> - Применение метода XGBoost на датасете Tips<br>
 <!-- <b><a href= "[link]"> [Document name] </a></b> - [Description] <br> -->
